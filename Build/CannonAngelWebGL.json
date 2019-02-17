@@ -1,0 +1,13 @@
+{
+"companyName": "YI",
+"productName": "CannonAngel",
+"dataUrl": "CannonAngelWebGL.data.unityweb",
+"asmCodeUrl": "CannonAngelWebGL.asm.code.unityweb",
+"asmMemoryUrl": "CannonAngelWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "CannonAngelWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
